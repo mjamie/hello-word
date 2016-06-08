@@ -1,0 +1,4 @@
+git clone - copies the reporitory of a site
+
+git log --oneline | wc -1 = shows the amounts of commits
+git log --oneline --graph = shows graphs of branches and merges
