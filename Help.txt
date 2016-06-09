@@ -1,4 +1,9 @@
-git clone - copies the reporitory of a site
+git clone - copies the reporitory of a HTTP
+(cd jquery) = works with the query
 
 git log --oneline | wc -1 = shows the amounts of commits
 git log --oneline --graph = shows graphs of branches and merges
+git log shortlog - list authers and commits (-s)summary
+git show head = shows the last change from JQuery
+git branch = et the main branches (-r) all branches
+
