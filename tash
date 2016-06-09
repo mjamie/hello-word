@@ -1,0 +1,69 @@
+[33mcommit 22297071f200c5021d6ef01a524e9fe5fb4aeb90[m
+Author: Mish-Al Jamie <Mish-Al.Jamie@csgi.com>
+Date:   Thu Jun 9 10:24:50 2016 +0200
+
+    Added additional feature to feature2
+
+[33mcommit 8a6904739fa5fc60afccae4efd10213fcf2d32e8[m
+Author: Mish-Al Jamie <Mish-Al.Jamie@csgi.com>
+Date:   Thu Jun 9 10:15:00 2016 +0200
+
+    added feature2
+
+[33mcommit f4182f94094eff52f30779ee86db135122b720e9[m
+Author: Mish-Al Jamie <Mish-Al.Jamie@csgi.com>
+Date:   Thu Jun 9 08:47:59 2016 +0200
+
+    Who knows who he is
+
+[33mcommit 1e2239a223e10f0e704b3806e8d8bab2e926ed61[m
+Author: Mish-Al Jamie <Mish-Al.Jamie@csgi.com>
+Date:   Thu Jun 9 08:41:42 2016 +0200
+
+    Adding again mpore text inside readme
+
+[33mcommit f72707ee205c36797d4b9cdeb51d74cb212fb53e[m
+Author: Mish-Al Jamie <jammis01@CSGICORP.COM>
+Date:   Wed Jun 8 15:06:47 2016 +0200
+
+    Nothing really changed
+
+[33mcommit aae5ce73076b420d9fc7f17fee62265cb70cf8cc[m
+Merge: e4077e3 dbb5fab
+Author: Mish-Al Jamie <jammis01@CSGICORP.COM>
+Date:   Wed Jun 8 14:50:07 2016 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit e4077e302668c6371f71e1c419fe0ad2d1baead4[m
+Author: Mish-Al Jamie <jammis01@CSGICORP.COM>
+Date:   Wed Jun 8 14:49:36 2016 +0200
+
+    Fixed few errors
+
+[33mcommit dbb5fab5e151fac20e14e632b8df1ac1136beed2[m
+Merge: 0edfd56 97ae54f
+Author: mjamie <mishaljamie@gmail.com>
+Date:   Wed Jun 8 14:30:46 2016 +0200
+
+    Merge pull request #1 from mjamie/readme-edits
+    
+    Add who is actually mish-al
+
+[33mcommit 97ae54f1b6e1abb202d6ab057fb16460faa109cf[m
+Author: mjamie <mishaljamie@gmail.com>
+Date:   Wed Jun 8 14:26:03 2016 +0200
+
+    Add who is actually mish-al
+
+[33mcommit 0edfd56f244215c8583d118e9f8fb0ef4b4c0720[m
+Author: mjamie <mishaljamie@gmail.com>
+Date:   Wed Jun 8 14:22:00 2016 +0200
+
+    Initial commit
+
+[33mcommit 2c97fa70ab6dc80a451bd11dcf511bc6e7d3bac0[m
+Author: Mish-Al Jamie <jammis01@CSGICORP.COM>
+Date:   Wed Jun 8 13:53:47 2016 +0200
+
+    Reorginized Files
