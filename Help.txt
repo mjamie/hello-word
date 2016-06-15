@@ -6,4 +6,4 @@ git log --oneline --graph = shows graphs of branches and merges
 git log shortlog - list authers and commits (-s)summary
 git show head = shows the last change from JQuery
 git branch = et the main branches (-r) all branches
-
+git diff = looks at the changes in the file
